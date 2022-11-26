@@ -14,8 +14,7 @@ TO DELIVER:
 - GitHub repo 
 - Video (e.g., Zoom recorded to the cloud, provide me with link + password) that provides me with a demo of what you were able to accomplish, and what troubles you encounter
 
-## First Steps
+## Steps
 1. deploy mysql cloud console --> I am using GCP
 2. Open mysql workbench and add another table that allows the population of accounts --> see scripts_mysql
 3. Add in a stylistic folder for your patient portal i.e. static
-4. 
